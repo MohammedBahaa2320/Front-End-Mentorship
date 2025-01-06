@@ -1,0 +1,112 @@
+/* Class Selector */
+.head {
+    background-color: rgb(238, 214, 135);
+    border: 2px solid rgb(218, 218, 218);
+    border-radius: 5px;
+    border-style: dotted;
+    border-width: thick;
+    font-family: cursive;
+
+    
+    
+
+    text-shadow: 2px 2px rgb(255, 213, 0);
+    text-decoration-color: rgb(87, 34, 233);
+    
+    
+    font-size: 2vw;
+    
+
+    margin: auto;
+}
+
+.Padding {
+    padding-top: 50px;
+    padding-top: 30px;
+    padding-top: 10px;
+    padding-top: 90px;
+
+    background-color: #ff6347;
+}
+
+.titles {
+    font-family: cursive;
+    text-shadow: 2px 2px rgb(255, 42, 0);
+    text-decoration-color: rgb(233, 117, 34);
+}
+
+.Clients {
+    height: 200 px;
+    width: 600 px;
+    padding: 50px;
+    border: 5px ridge rgb(70, 68, 204);
+    margin: 20px;
+    background-color: rgba(22, 19, 37, 0.847);
+    font-family: cursive;
+    text-shadow: 2px 2px rgb(255, 42, 0);
+    text-decoration-color: rgb(233, 117, 34);
+    text-align: center;
+    text-decoration-line: underline overline;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    /* line-height: 100px; */
+}
+
+/* This targets componenets with <p> tag */ 
+p {
+    /* border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid; */
+
+    border-radius: 5px;
+    
+
+
+    text-align: center;
+    color:rgb(16, 11, 51);
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif */
+}
+
+/* ID Selector */
+#para1 {
+    text-align: center;
+    color: red;
+}
+
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: #fff647;
+}
+
+body {
+    background-color: rgb(red, green, blue);
+    background-color: #ff6347;
+    background-color: hsl(9, 100%, 64%);
+    background-color: rgba(255,99,71,0.5);
+    background-color: rgba(99, 91, 97, 0.936);
+    background-image: url(media/20901.jpg);
+    /* background-position: left bottom; */
+    background-size: contain;
+    background-attachment: scroll;
+}
+
+h1 {
+    color:rgb(255, 234, 77);
+    font-weight: bold;
+}
+
+#Headline {
+    border: rgb(237, 4, 4);
+    border-style: dotted groove inset ;
+    border-width: 5px 8px 2px;
+    border-color: red;
+    /* background-color: green;
+    background-image: url("https://i.pinimg.com/736x/12/bf/1a/12bf1a22bdd03cb2a2b850dcf3f17dd5.jpg");
+    background-repeat: repeat-y;
+    background-position: right top;
+    background-attachment: scroll;
+    background:  rgba(0, green, 0, 0.3); */
+    
+}
